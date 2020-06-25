@@ -1,6 +1,3 @@
-/* Adrian Argint 
-	313 CB 		*/
-
 Teme este impartita in main si functii, ambele fiind fisiere c. La inceput se
 imparte inputul in vector de stringuri, iar prin switch se apeleaza functia
 corespunzatoare. In "functii.c" exista cate o functie pt fiecare operatie din
